@@ -2,6 +2,8 @@
 
 ### Break the ice. Make connections. Win at socializing.
 
+**📺 [Watch the video tutorial](https://www.youtube.com/watch?v=dxDqelvVc2U)** to see how this project was built!
+
 **Soc Ops** is an interactive social bingo game designed to turn awkward mixers into engaging conversations. Perfect for conferences, team events, workshops, or any gathering where people need an excuse to talk to strangers.
 
 ---
